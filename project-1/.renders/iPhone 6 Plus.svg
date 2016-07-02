@@ -22,9 +22,9 @@
                     <tspan x="2" y="36">Tap your</tspan>
                 </text>
             </g>
-            <text id="Tap-whatever-moves-y" font-family="Avenir-Medium, Avenir" font-size="16" font-weight="400" fill="#9A9595">
-                <tspan x="21" y="207">Tap whatever moves you,</tspan>
-                <tspan x="21" y="229">you can always edit later</tspan>
+            <text id="Tap-whatever-moves-y" font-family="Avenir-Medium, Avenir" font-size="18" font-weight="400" line-spacing="23" fill="#9A9595">
+                <tspan x="21" y="208">Tap whatever moves you,</tspan>
+                <tspan x="21" y="231">you can always edit later.</tspan>
             </text>
             <g id="Items" transform="translate(20.000000, 267.000000)">
                 <g id="items-row3" transform="translate(0.000000, 290.000000)">
@@ -146,8 +146,8 @@
             </g>
             <g id="Bottom" transform="translate(0.000000, 668.000000)">
                 <rect id="Background" fill="#FFFFFF" x="0" y="1" width="414" height="67"></rect>
-                <text id="Pick-at-least-3" font-family="Avenir-Medium, Avenir" font-size="16" font-weight="400" fill="#9A9595">
-                    <tspan x="20" y="39">Pick at least 3</tspan>
+                <text id="Pick-at-least-3" font-family="Avenir-Medium, Avenir" font-size="18" font-weight="400" line-spacing="23" fill="#9A9595">
+                    <tspan x="20" y="41">Pick at least 3</tspan>
                 </text>
                 <path d="M0,1 L414,1" id="Top-line" stroke="#F5F5F5" stroke-linecap="square"></path>
             </g>
