@@ -7,13 +7,19 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="iPhone-6-Plus">
             <path d="M218.240848,44 L209.270833,30.9865067 C213.918509,30.8005997 217.869034,27.6866567 217.869034,22.0629685 C217.869034,16.3928036 213.779079,13 208.434252,13 L196.861538,13 L193.125,13 L193.125,15.436157 L193.125,31.4730611 L207.406922,31.4730611 L215.576665,43.9999989 L218.240848,44 Z M206.096872,29.4605197 L193.125,29.4605197 L193.125,14.9365317 L206.096872,14.9365317 C212.270651,14.9365317 216.363381,17.9222993 216.363381,22.1732226 C216.363381,26.4241459 212.270651,29.4605197 206.096872,29.4605197 L206.096872,29.4605197 Z" id="Logotype" fill="#A69872"></path>
-            <g id="Search" transform="translate(355.000000, 11.000000)">
+            <g id="Search" transform="translate(357.000000, 11.000000)">
                 <ellipse id="Outer-ring" fill="#D1CFCF" cx="17.5" cy="17.5" rx="17.5" ry="17.5"></ellipse>
                 <g id="symbol" transform="translate(9.264706, 9.264706)" stroke="#FFFFFF" stroke-width="2">
                     <path d="M9.77941176,10.8088235 L14.87474,15.9041518" id="Line" stroke-linecap="square"></path>
                     <circle id="innerst-ring" cx="6.17647059" cy="6.17647059" r="6.17647059"></circle>
                 </g>
             </g>
+            <text id="Tap-your" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="35" font-weight="300" fill="#9A9595">
+                <tspan x="20" y="112">Tap your</tspan>
+            </text>
+            <text id="Favorites" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="35" font-weight="300" fill="#C3C1C1">
+                <tspan x="18" y="153">Favorites</tspan>
+            </text>
         </g>
     </g>
 </svg>

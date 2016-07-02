@@ -3,3 +3,5 @@
 
 * pixels feels big all of a sudden, they've most of the time when I've been working felt big. Now I kinda wish subpixels existed in  html/css.
 * It's harder than it should be to just center something.
+
+* figuring out a grid is _really_ challenging, but it's also incredibly fun. Wow.
