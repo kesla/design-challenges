@@ -5,3 +5,5 @@
 * It's harder than it should be to just center something.
 
 * figuring out a grid is _really_ challenging, but it's also incredibly fun. Wow.
+
+* colors are not what they seem - especially not gray. It really depends on how they're used and how much of them that are used.

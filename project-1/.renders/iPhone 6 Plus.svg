@@ -14,14 +14,18 @@
                     <circle id="innerst-ring" cx="6.17647059" cy="6.17647059" r="6.17647059"></circle>
                 </g>
             </g>
-            <g id="top-text" transform="translate(18.000000, 83.000000)" font-size="35" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-weight="300">
-                <text id="Favorites" fill="#C3C1C1">
+            <g id="top-text" transform="translate(18.000000, 76.000000)" font-size="35" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-weight="300">
+                <text id="Favorites" fill="#D1CFCF">
                     <tspan x="0" y="70">Favorites</tspan>
                 </text>
                 <text id="Tap-your" line-spacing="35" fill="#9A9595">
                     <tspan x="2" y="36">Tap your</tspan>
                 </text>
             </g>
+            <text id="Tap-whatever-moves-y" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="16" font-weight="300" fill="#9A9595">
+                <tspan x="21" y="207">Tap whatever moves you,</tspan>
+                <tspan x="21" y="229">you can always edit later</tspan>
+            </text>
         </g>
     </g>
 </svg>
