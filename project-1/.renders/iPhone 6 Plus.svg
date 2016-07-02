@@ -22,44 +22,44 @@
                     <tspan x="2" y="36">Tap your</tspan>
                 </text>
             </g>
-            <text id="Tap-whatever-moves-y" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="16" font-weight="300" fill="#9A9595">
+            <text id="Tap-whatever-moves-y" font-family="Avenir-Medium, Avenir" font-size="16" font-weight="400" fill="#9A9595">
                 <tspan x="21" y="207">Tap whatever moves you,</tspan>
                 <tspan x="21" y="229">you can always edit later</tspan>
             </text>
             <g id="items-row3" transform="translate(20.000000, 557.000000)">
                 <g id="Home-Decor" transform="translate(310.000000, 1.000000)">
                     <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                    <text id="TV-Shows" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="14" font-weight="300" fill="#222222">
-                        <tspan x="1" y="84">TV Shows</tspan>
+                    <text id="TV-Shows" font-family="Avenir-Roman, Avenir" font-size="14" font-weight="normal" line-spacing="17" fill="#222222">
+                        <tspan x="1" y="85">TV Shows</tspan>
                     </text>
-                    <text id="Follow" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="12" font-weight="300" fill="#9A9595">
+                    <text id="Follow" font-family="Avenir-Light, Avenir" font-size="13" font-weight="300" fill="#9A9595">
                         <tspan x="0" y="124">Follow</tspan>
                     </text>
                 </g>
                 <g id="Womens-Lifestyle" transform="translate(207.000000, 1.000000)">
                     <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                    <text id="Food" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="14" font-weight="300" fill="#222222">
-                        <tspan x="1" y="84">Food</tspan>
+                    <text id="Food" font-family="Avenir-Roman, Avenir" font-size="14" font-weight="normal" line-spacing="17" fill="#222222">
+                        <tspan x="1" y="85">Food</tspan>
                     </text>
-                    <text id="Follow" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="12" font-weight="300" fill="#9A9595">
+                    <text id="Follow" font-family="Avenir-Light, Avenir" font-size="13" font-weight="300" fill="#9A9595">
                         <tspan x="0" y="124">Follow</tspan>
                     </text>
                 </g>
                 <g id="Beauty" transform="translate(103.000000, 0.000000)">
                     <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                    <text id="Design" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="14" font-weight="300" fill="#222222">
-                        <tspan x="1" y="84">Design</tspan>
+                    <text id="Design" font-family="Avenir-Roman, Avenir" font-size="14" font-weight="normal" line-spacing="17" fill="#222222">
+                        <tspan x="1" y="85">Design</tspan>
                     </text>
-                    <text id="Follow" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="12" font-weight="300" fill="#9A9595">
+                    <text id="Follow" font-family="Avenir-Light, Avenir" font-size="13" font-weight="300" fill="#9A9595">
                         <tspan x="0" y="124">Follow</tspan>
                     </text>
                 </g>
                 <g id="Fashion">
                     <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                    <text id="Movies" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="14" font-weight="300" fill="#222222">
-                        <tspan x="1" y="84">Movies</tspan>
+                    <text id="Movies" font-family="Avenir-Roman, Avenir" font-size="14" font-weight="normal" line-spacing="17" fill="#222222">
+                        <tspan x="1" y="85">Movies</tspan>
                     </text>
-                    <text id="Follow" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="12" font-weight="300" fill="#9A9595">
+                    <text id="Follow" font-family="Avenir-Light, Avenir" font-size="13" font-weight="300" fill="#9A9595">
                         <tspan x="0" y="124">Follow</tspan>
                     </text>
                 </g>
@@ -67,37 +67,37 @@
             <g id="items-row2" transform="translate(20.000000, 412.000000)">
                 <g id="Home-Decor" transform="translate(310.000000, 1.000000)">
                     <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                    <text id="Music" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="14" font-weight="300" fill="#222222">
-                        <tspan x="1" y="84">Music</tspan>
+                    <text id="Music" font-family="Avenir-Roman, Avenir" font-size="14" font-weight="normal" line-spacing="17" fill="#222222">
+                        <tspan x="1" y="85">Music</tspan>
                     </text>
-                    <text id="Follow" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="12" font-weight="300" fill="#9A9595">
+                    <text id="Follow" font-family="Avenir-Light, Avenir" font-size="13" font-weight="300" fill="#9A9595">
                         <tspan x="0" y="124">Follow</tspan>
                     </text>
                 </g>
                 <g id="Womens-Lifestyle" transform="translate(207.000000, 1.000000)">
                     <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                    <text id="Sports" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="14" font-weight="300" fill="#222222">
-                        <tspan x="1" y="84">Sports</tspan>
+                    <text id="Sports" font-family="Avenir-Roman, Avenir" font-size="14" font-weight="normal" line-spacing="17" fill="#222222">
+                        <tspan x="1" y="85">Sports</tspan>
                     </text>
-                    <text id="Follow" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="12" font-weight="300" fill="#9A9595">
+                    <text id="Follow" font-family="Avenir-Light, Avenir" font-size="13" font-weight="300" fill="#9A9595">
                         <tspan x="0" y="124">Follow</tspan>
                     </text>
                 </g>
                 <g id="Beauty" transform="translate(103.000000, 0.000000)">
                     <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                    <text id="Tech" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="14" font-weight="300" fill="#222222">
-                        <tspan x="1" y="84">Tech</tspan>
+                    <text id="Tech" font-family="Avenir-Roman, Avenir" font-size="14" font-weight="normal" line-spacing="17" fill="#222222">
+                        <tspan x="1" y="85">Tech</tspan>
                     </text>
-                    <text id="Follow" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="12" font-weight="300" fill="#9A9595">
+                    <text id="Follow" font-family="Avenir-Light, Avenir" font-size="13" font-weight="300" fill="#9A9595">
                         <tspan x="0" y="124">Follow</tspan>
                     </text>
                 </g>
                 <g id="Fashion">
                     <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                    <text id="Startups" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="14" font-weight="300" fill="#222222">
-                        <tspan x="1" y="84">Startups</tspan>
+                    <text id="Startups" font-family="Avenir-Roman, Avenir" font-size="14" font-weight="normal" line-spacing="17" fill="#222222">
+                        <tspan x="1" y="85">Startups</tspan>
                     </text>
-                    <text id="Follow" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="12" font-weight="300" fill="#9A9595">
+                    <text id="Follow" font-family="Avenir-Light, Avenir" font-size="13" font-weight="300" fill="#9A9595">
                         <tspan x="0" y="124">Follow</tspan>
                     </text>
                 </g>
@@ -105,39 +105,39 @@
             <g id="items-row1" transform="translate(20.000000, 267.000000)">
                 <g id="Home-Decor" transform="translate(310.000000, 1.000000)">
                     <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                    <text font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="14" font-weight="300" fill="#222222">
-                        <tspan x="1" y="84">Home </tspan>
-                        <tspan x="1" y="103">Decor</tspan>
+                    <text font-family="Avenir-Roman, Avenir" font-size="14" font-weight="normal" line-spacing="17" fill="#222222">
+                        <tspan x="1" y="85">Home </tspan>
+                        <tspan x="1" y="102">Decor</tspan>
                     </text>
-                    <text id="Follow" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="12" font-weight="300" fill="#9A9595">
+                    <text id="Follow" font-family="Avenir-Light, Avenir" font-size="13" font-weight="300" fill="#9A9595">
                         <tspan x="0" y="124">Follow</tspan>
                     </text>
                 </g>
                 <g id="Womens-Lifestyle" transform="translate(207.000000, 1.000000)">
                     <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                    <text font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="14" font-weight="300" fill="#222222">
-                        <tspan x="1" y="84">Womens </tspan>
-                        <tspan x="1" y="103">Lifestyle</tspan>
+                    <text font-family="Avenir-Roman, Avenir" font-size="14" font-weight="normal" line-spacing="17" fill="#222222">
+                        <tspan x="1" y="85">Womens </tspan>
+                        <tspan x="1" y="102">Lifestyle</tspan>
                     </text>
-                    <text id="Follow" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="12" font-weight="300" fill="#9A9595">
+                    <text id="Follow" font-family="Avenir-Light, Avenir" font-size="13" font-weight="300" fill="#9A9595">
                         <tspan x="0" y="124">Follow</tspan>
                     </text>
                 </g>
                 <g id="Beauty" transform="translate(103.000000, 0.000000)">
                     <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                    <text font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="14" font-weight="300" fill="#222222">
-                        <tspan x="1" y="84">Beauty</tspan>
+                    <text font-family="Avenir-Roman, Avenir" font-size="14" font-weight="normal" line-spacing="17" fill="#222222">
+                        <tspan x="1" y="85">Beauty</tspan>
                     </text>
-                    <text id="Follow" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="12" font-weight="300" fill="#9A9595">
+                    <text id="Follow" font-family="Avenir-Light, Avenir" font-size="13" font-weight="300" fill="#9A9595">
                         <tspan x="0" y="124">Follow</tspan>
                     </text>
                 </g>
                 <g id="Fashion">
-                    <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                    <text font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="14" font-weight="300" fill="#222222">
-                        <tspan x="1" y="84">Fashion</tspan>
+                    <path d="M32,62 C49.1208272,62 63,48.1208272 63,31 C63,13.8791728 49.1208272,0 32,0 C14.8791728,0 1,13.8791728 1,31 C1,48.1208272 14.8791728,62 32,62 Z" id="Oval-3" fill="#F5F5F5"></path>
+                    <text font-family="Avenir-Roman, Avenir" font-size="14" font-weight="normal" line-spacing="17" fill="#222222">
+                        <tspan x="1" y="85">Fashion</tspan>
                     </text>
-                    <text id="Follow" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="12" font-weight="300" fill="#9A9595">
+                    <text id="Follow" font-family="Avenir-Light, Avenir" font-size="13" font-weight="300" fill="#9A9595">
                         <tspan x="0" y="124">Follow</tspan>
                     </text>
                 </g>
