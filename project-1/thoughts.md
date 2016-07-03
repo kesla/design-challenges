@@ -31,3 +31,5 @@
 * I need a system for how I place out artboards :)
 
 * Hm, I'm a bit bored with this design by now, I've spent a lot of time on it. I might download the app, but overall this was not a lifechanging app.
+
+* Small mistakes (or inconsistencies in the app) make things look weird. It's super interesting and I wonder if / how you can avoid that. Just making sure things look good AND are consistent. Hm, it's not as easy as I thought and I kinda wondering how it can be done at all, to be honest. I'm super excited about my next project at this point.
