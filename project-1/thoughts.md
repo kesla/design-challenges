@@ -29,3 +29,5 @@
 * on that note, I see now that my grid isn't what it should be... it's a little bit too slim meaning the word 'TV Shows' needs to rows with the font size I like. Oh well. Next time I'll start wider and go slimmer if needed
 
 * I need a system for how I place out artboards :)
+
+* Hm, I'm a bit bored with this design by now, I've spent a lot of time on it. I might download the app, but overall this was not a lifechanging app.

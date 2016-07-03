@@ -52,6 +52,60 @@
                     </text>
                 </g>
             </g>
+            <text id="See-all" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#9A9595">
+                <tspan x="351" y="440">See all</tspan>
+            </text>
+            <g id="Mutual" transform="translate(0.000000, 397.000000)">
+                <text font-family="FZLTZHK--GBK1-0, Lantinghei SC" font-size="18" font-weight="500" fill="#494949">
+                    <tspan x="21" y="43">Mutual</tspan>
+                </text>
+                <path d="M0,1.5 L414,1.5" id="Line" stroke="#F5F5F5" stroke-linecap="square"></path>
+                <g id="Item2" transform="translate(106.000000, 61.000000)">
+                    <circle id="Oval-3-Copy-2" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
+                    <text id="Wang" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                        <tspan x="0" y="86">Wang</tspan>
+                    </text>
+                    <text id="57%" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
+                        <tspan x="0" y="101">57%</tspan>
+                    </text>
+                </g>
+                <g id="item1" transform="translate(21.000000, 61.000000)">
+                    <circle id="Oval-3-Copy" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
+                    <text id="Noa" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                        <tspan x="0" y="86">Noa</tspan>
+                    </text>
+                    <text id="79%" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
+                        <tspan x="0" y="101">79%</tspan>
+                    </text>
+                </g>
+                <g id="item3" transform="translate(191.000000, 61.000000)">
+                    <circle id="Oval-3-Copy-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
+                    <text id="Aisha" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                        <tspan x="0" y="86">Aisha</tspan>
+                    </text>
+                    <text id="51%" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
+                        <tspan x="0" y="101">51%</tspan>
+                    </text>
+                </g>
+                <g id="item4" transform="translate(276.000000, 61.000000)">
+                    <circle id="Oval-3-Copy-4" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
+                    <text id="Ellen" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                        <tspan x="0" y="86">Ellen</tspan>
+                    </text>
+                    <text id="49%" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
+                        <tspan x="0" y="101">49%</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="item5" transform="translate(361.000000, 458.000000)">
+                <circle id="Oval-3-Copy-5" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
+                <text id="Evan" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                    <tspan x="0" y="86">Evan</tspan>
+                </text>
+                <text id="48%" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
+                    <tspan x="0" y="101">48%</tspan>
+                </text>
+            </g>
         </g>
     </g>
 </svg>
