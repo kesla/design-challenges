@@ -24,3 +24,6 @@
 * It's super interesting how much small changes in pixels affects the whole design.
 * I really like that it's so simple to align/center things. Those buttons rock so hard.
 * Next time around I need to look closer at the views I'm choosing, making sure it has all states (selected etc)
+
+* doing design - working with sketch - is much more waterfall than programming is. In programming you can change core concept - like the grid - fairly simple. In sketch is a costly and complicated process since you need to redo so much. At least that's the workflow I've established. Maybe it's my workflow that needs to be updated? I'd love to work with variables - in the same way as you do w css.
+* on that note, I see now that my grid isn't what it should be... it's a little bit too slim meaning the word 'TV Shows' needs to rows with the font size I like. Oh well. Next time I'll start wider and go slimmer if needed

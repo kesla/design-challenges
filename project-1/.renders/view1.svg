@@ -30,8 +30,9 @@
                 <g id="items-row3" transform="translate(0.000000, 290.000000)">
                     <g id="Home-Decor" transform="translate(310.000000, 1.000000)">
                         <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                        <text id="TV-Shows" font-family="Avenir-Medium, Avenir" font-size="14" font-weight="400" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="85">TV Shows</tspan>
+                        <text id="TV-Shows" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="86">TV </tspan>
+                            <tspan x="1" y="103">Shows</tspan>
                         </text>
                         <text id="Follow" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="124">Follow</tspan>
@@ -39,8 +40,8 @@
                     </g>
                     <g id="Womens-Lifestyle" transform="translate(207.000000, 1.000000)">
                         <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                        <text id="Food" font-family="Avenir-Medium, Avenir" font-size="14" font-weight="400" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="85">Food</tspan>
+                        <text id="Food" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="86">Food</tspan>
                         </text>
                         <text id="Follow" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="124">Follow</tspan>
@@ -48,8 +49,8 @@
                     </g>
                     <g id="Beauty" transform="translate(103.000000, 0.000000)">
                         <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                        <text id="Design" font-family="Avenir-Medium, Avenir" font-size="14" font-weight="400" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="85">Design</tspan>
+                        <text id="Design" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="86">Design</tspan>
                         </text>
                         <text id="Follow" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="124">Follow</tspan>
@@ -57,8 +58,8 @@
                     </g>
                     <g id="Fashion">
                         <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                        <text id="Movies" font-family="Avenir-Medium, Avenir" font-size="14" font-weight="400" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="85">Movies</tspan>
+                        <text id="Movies" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="86">Movies</tspan>
                         </text>
                         <text id="Follow" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="124">Follow</tspan>
@@ -68,8 +69,8 @@
                 <g id="items-row2" transform="translate(0.000000, 145.000000)">
                     <g id="Home-Decor" transform="translate(310.000000, 1.000000)">
                         <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                        <text id="Music" font-family="Avenir-Medium, Avenir" font-size="14" font-weight="400" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="85">Music</tspan>
+                        <text id="Music" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="86">Music</tspan>
                         </text>
                         <text id="Follow" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="124">Follow</tspan>
@@ -77,8 +78,8 @@
                     </g>
                     <g id="Womens-Lifestyle" transform="translate(207.000000, 1.000000)">
                         <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                        <text id="Sports" font-family="Avenir-Medium, Avenir" font-size="14" font-weight="400" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="85">Sports</tspan>
+                        <text id="Sports" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="86">Sports</tspan>
                         </text>
                         <text id="Follow" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="124">Follow</tspan>
@@ -86,8 +87,8 @@
                     </g>
                     <g id="Beauty" transform="translate(103.000000, 0.000000)">
                         <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                        <text id="Tech" font-family="Avenir-Medium, Avenir" font-size="14" font-weight="400" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="85">Tech</tspan>
+                        <text id="Tech" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="86">Tech</tspan>
                         </text>
                         <text id="Follow" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="124">Follow</tspan>
@@ -95,8 +96,8 @@
                     </g>
                     <g id="Fashion">
                         <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                        <text id="Startups" font-family="Avenir-Medium, Avenir" font-size="14" font-weight="400" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="85">Startups</tspan>
+                        <text id="Startups" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="86">Startups</tspan>
                         </text>
                         <text id="Follow" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="124">Follow</tspan>
@@ -106,9 +107,9 @@
                 <g id="items-row1">
                     <g id="Home-Decor" transform="translate(310.000000, 1.000000)">
                         <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                        <text font-family="Avenir-Medium, Avenir" font-size="14" font-weight="400" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="85">Home </tspan>
-                            <tspan x="1" y="102">Decor</tspan>
+                        <text font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="86">Home </tspan>
+                            <tspan x="1" y="103">Decor</tspan>
                         </text>
                         <text id="Follow" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="124">Follow</tspan>
@@ -116,9 +117,9 @@
                     </g>
                     <g id="Womens-Lifestyle" transform="translate(207.000000, 1.000000)">
                         <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                        <text font-family="Avenir-Medium, Avenir" font-size="14" font-weight="400" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="85">Womens </tspan>
-                            <tspan x="1" y="102">Lifestyle</tspan>
+                        <text font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="86">Womens </tspan>
+                            <tspan x="1" y="103">Lifestyle</tspan>
                         </text>
                         <text id="Follow" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="124">Follow</tspan>
@@ -126,8 +127,8 @@
                     </g>
                     <g id="Beauty" transform="translate(103.000000, 0.000000)">
                         <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
-                        <text font-family="Avenir-Medium, Avenir" font-size="14" font-weight="400" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="85">Beauty</tspan>
+                        <text font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="86">Beauty</tspan>
                         </text>
                         <text id="Follow" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="124">Follow</tspan>
@@ -135,8 +136,8 @@
                     </g>
                     <g id="Fashion">
                         <path d="M32,62 C49.1208272,62 63,48.1208272 63,31 C63,13.8791728 49.1208272,0 32,0 C14.8791728,0 1,13.8791728 1,31 C1,48.1208272 14.8791728,62 32,62 Z" id="Oval-3" fill="#F5F5F5"></path>
-                        <text font-family="Avenir-Medium, Avenir" font-size="14" font-weight="400" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="85">Fashion</tspan>
+                        <text font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="86">Fashion</tspan>
                         </text>
                         <text id="Follow" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="124">Follow</tspan>

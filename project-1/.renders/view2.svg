@@ -45,11 +45,11 @@
             <g id="Items" transform="translate(21.000000, 270.000000)">
                 <g id="item7" transform="translate(1.000000, 438.000000)">
                     <circle id="image" fill="#D8D8D8" cx="21" cy="21" r="21"></circle>
-                    <g id="text" transform="translate(60.000000, 2.000000)" font-family="Avenir-Medium, Avenir" font-weight="400">
-                        <text id="Design" font-size="14" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="14">Design</tspan>
+                    <g id="text" transform="translate(60.000000, 2.000000)">
+                        <text id="Design" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="15">Design</tspan>
                         </text>
-                        <text id="14.3K-followers" font-size="13" fill="#9A9595">
+                        <text id="14.3K-followers" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="33">14.3K followers</tspan>
                         </text>
                     </g>
@@ -57,11 +57,11 @@
                 </g>
                 <g id="item6" transform="translate(1.000000, 365.000000)">
                     <circle id="image" fill="#D8D8D8" cx="21" cy="21" r="21"></circle>
-                    <g id="text" transform="translate(60.000000, 2.000000)" font-family="Avenir-Medium, Avenir" font-weight="400">
-                        <text id="David-Airey" font-size="14" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="14">David Airey</tspan>
+                    <g id="text" transform="translate(60.000000, 2.000000)">
+                        <text id="David-Airey" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="15">David Airey</tspan>
                         </text>
-                        <text id="1.3K-followers" font-size="13" fill="#9A9595">
+                        <text id="1.3K-followers" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="33">1.3K followers</tspan>
                         </text>
                     </g>
@@ -69,11 +69,11 @@
                 </g>
                 <g id="item5" transform="translate(1.000000, 292.000000)">
                     <circle id="image" fill="#D8D8D8" cx="21" cy="21" r="21"></circle>
-                    <g id="text" transform="translate(60.000000, 2.000000)" font-family="Avenir-Medium, Avenir" font-weight="400">
-                        <text id="Cognition" font-size="14" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="14">Cognition</tspan>
+                    <g id="text" transform="translate(60.000000, 2.000000)">
+                        <text id="Cognition" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="15">Cognition</tspan>
                         </text>
-                        <text id="2-followers" font-size="13" fill="#9A9595">
+                        <text id="2-followers" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="33">2 followers</tspan>
                         </text>
                     </g>
@@ -81,11 +81,11 @@
                 </g>
                 <g id="item4" transform="translate(1.000000, 219.000000)">
                     <circle id="image" fill="#D8D8D8" cx="21" cy="21" r="21"></circle>
-                    <g id="text" transform="translate(60.000000, 2.000000)" font-family="Avenir-Medium, Avenir" font-weight="400">
-                        <text id="Business-News" font-size="14" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="14">Business News</tspan>
+                    <g id="text" transform="translate(60.000000, 2.000000)">
+                        <text id="Business-News" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="15">Business News</tspan>
                         </text>
-                        <text id="12.6K-followers" font-size="13" fill="#9A9595">
+                        <text id="12.6K-followers" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="33">12.6K followers</tspan>
                         </text>
                     </g>
@@ -93,35 +93,35 @@
                 </g>
                 <g id="item3" transform="translate(1.000000, 146.000000)">
                     <circle id="image" fill="#D8D8D8" cx="21" cy="21" r="21"></circle>
-                    <g id="text" transform="translate(60.000000, 2.000000)" font-family="Avenir-Medium, Avenir" font-weight="400">
-                        <text id="Books" font-size="14" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="14">Books</tspan>
+                    <g id="text" transform="translate(60.000000, 2.000000)">
+                        <text id="Books" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="15">Books</tspan>
                         </text>
-                        <text id="15.3K-followers" font-size="13" fill="#9A9595">
+                        <text id="15.3K-followers" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="33">15.3K followers</tspan>
                         </text>
                     </g>
                     <circle id="selection-box" stroke="#D1CFCF" stroke-width="2" cx="361" cy="21" r="10"></circle>
                 </g>
-                <g id="item2" transform="translate(1.000000, 72.000000)">
+                <g id="item2" transform="translate(1.000000, 74.000000)">
                     <circle id="image" fill="#D8D8D8" cx="21" cy="21" r="21"></circle>
-                    <g id="text" transform="translate(60.000000, 2.000000)" font-family="Avenir-Medium, Avenir" font-weight="400">
-                        <text id="Beautifyl-Type" font-size="14" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="14">Beautifyl Type</tspan>
+                    <g id="text" transform="translate(60.000000, 2.000000)">
+                        <text id="Beautifyl-Type" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="15">Beautifyl Type</tspan>
                         </text>
-                        <text id="1-follower" font-size="13" fill="#9A9595">
+                        <text id="1-follower" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="33">1 follower</tspan>
                         </text>
                     </g>
-                    <circle id="selection-box" stroke="#D1CFCF" stroke-width="2" cx="361" cy="21" r="10"></circle>
+                    <circle id="selection-box" stroke="#D1CFCF" stroke-width="2" cx="361" cy="19" r="10"></circle>
                 </g>
                 <g id="item1">
                     <circle id="image" fill="#D8D8D8" cx="21" cy="21" r="21"></circle>
-                    <g id="text" transform="translate(60.000000, 2.000000)" font-family="Avenir-Medium, Avenir" font-weight="400">
-                        <text id="Art" font-size="14" line-spacing="17" fill="#494949">
-                            <tspan x="1" y="14">Art</tspan>
+                    <g id="text" transform="translate(60.000000, 2.000000)">
+                        <text id="Art" font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
+                            <tspan x="1" y="15">Art</tspan>
                         </text>
-                        <text id="14.3K-followers" font-size="13" fill="#9A9595">
+                        <text id="14.3K-followers" font-family="Avenir-Medium, Avenir" font-size="13" font-weight="400" fill="#9A9595">
                             <tspan x="0" y="33">14.3K followers</tspan>
                         </text>
                     </g>
