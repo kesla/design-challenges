@@ -16,3 +16,11 @@
  * It doens't feel like Sketch is helping me with this either. I'm confused around spacing around characters, for example. I also realize I implement things that looks good in one few - but that wouldn't necessarily work in another. Which is also something that I - as an engineer - always feel frustrated with.
  * I'm also using a shit ton of different font sizes - without thinking about it.
 * I don't really like that rover has such a weak selected state in the tab menu, so I made that more clear. Maybe it's not needed, maybe it's ok in an app to skip that? Idk, need to discuss w Totte.
+
+* I need to start using real images. Using a gray box has been fine for now to get me up to speed but I'm cheating a bit.
+* Wow what much faster I was today compared to yesterday
+* I also need to look into using symbols
+* and craft
+* It's super interesting how much small changes in pixels affects the whole design.
+* I really like that it's so simple to align/center things. Those buttons rock so hard.
+* Next time around I need to look closer at the views I'm choosing, making sure it has all states (selected etc)
