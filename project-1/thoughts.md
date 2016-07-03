@@ -11,3 +11,8 @@
 * I don't really get the follow text. I guess it's connected to the image above it? But is it the same functionality as selecting something? Also, I'm missing the state when you've actually selected something. I might need to improvise and figure something out.
 
 * I don't really like the way they've built the text in this view. It's confusing to me with the follow buttons and it just doesn't feel very balanced.
+
+* I'm really doing my best in creating a design that would be easy to implement. But I think I'm failing over and over. To some degree I know that if I implemented this I would change a few things slightly, just to be consistent.
+ * It doens't feel like Sketch is helping me with this either. I'm confused around spacing around characters, for example. I also realize I implement things that looks good in one few - but that wouldn't necessarily work in another. Which is also something that I - as an engineer - always feel frustrated with.
+ * I'm also using a shit ton of different font sizes - without thinking about it.
+* I don't really like that rover has such a weak selected state in the tab menu, so I made that more clear. Maybe it's not needed, maybe it's ok in an app to skip that? Idk, need to discuss w Totte.
