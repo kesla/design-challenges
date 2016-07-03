@@ -1,4 +1,4 @@
-# design challenge
+# design challenges
 
 ## GOAL
 
