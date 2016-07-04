@@ -106,7 +106,7 @@
                 </g>
                 <g id="items-row1">
                     <g id="Home-Decor" transform="translate(310.000000, 1.000000)">
-                        <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
+                        <ellipse id="Oval-3" fill="#F5F5F5" cx="32" cy="31" rx="31" ry="31"></ellipse>
                         <text font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
                             <tspan x="1" y="86">Home </tspan>
                             <tspan x="1" y="103">Decor</tspan>
@@ -116,7 +116,7 @@
                         </text>
                     </g>
                     <g id="Womens-Lifestyle" transform="translate(207.000000, 1.000000)">
-                        <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
+                        <ellipse id="Oval-3" fill="#F5F5F5" cx="32" cy="31" rx="31" ry="31"></ellipse>
                         <text font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
                             <tspan x="1" y="86">Womens </tspan>
                             <tspan x="1" y="103">Lifestyle</tspan>
@@ -126,7 +126,7 @@
                         </text>
                     </g>
                     <g id="Beauty" transform="translate(103.000000, 0.000000)">
-                        <circle id="Oval-3" fill="#F5F5F5" cx="32" cy="31" r="31"></circle>
+                        <ellipse id="Oval-3" fill="#F5F5F5" cx="32" cy="31" rx="31" ry="31"></ellipse>
                         <text font-family="Avenir-Roman, Avenir" font-size="15" font-weight="normal" line-spacing="17" fill="#494949">
                             <tspan x="1" y="86">Beauty</tspan>
                         </text>
@@ -147,7 +147,7 @@
             </g>
             <g id="Bottom" transform="translate(0.000000, 668.000000)">
                 <rect id="Background" fill="#FFFFFF" x="0" y="1" width="414" height="67"></rect>
-                <text id="Pick-at-least-3" font-family="Avenir-Medium, Avenir" font-size="18" font-weight="400" line-spacing="23" fill="#9A9595">
+                <text id="Pick-at-least-3" font-family="Avenir-Medium, Avenir" font-size="18" font-weight="400" line-spacing="23" fill="#9C9292">
                     <tspan x="20" y="41">Pick at least 3</tspan>
                 </text>
                 <path d="M0,1 L414,1" id="Top-line" stroke="#F5F5F5" stroke-linecap="square"></path>
