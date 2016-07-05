@@ -1,8 +1,9 @@
 {
   "scripts": {
-    "render": "sketchtool export artboards project-1/rover.sketch --output=project-1/.renders && git add project-1/.renders"
+    "render": "node render.js"
   },
   "devDependencies": {
+    "glob": "^7.0.5",
     "pre-commit": "^1.1.3"
   },
   "pre-commit": [
