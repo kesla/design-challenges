@@ -50,6 +50,20 @@
                 </text>
                 <path d="M9.25,13 C10.7687831,13 12,11.7687831 12,10.25 C12,8.73121694 10.7687831,7.5 9.25,7.5 C7.73121694,7.5 6.5,8.73121694 6.5,10.25 C6.5,11.7687831 7.73121694,13 9.25,13 Z M16.25,13 C17.7687831,13 19,11.7687831 19,10.25 C19,8.73121694 17.7687831,7.5 16.25,7.5 C14.7312169,7.5 13.5,8.73121694 13.5,10.25 C13.5,11.7687831 14.7312169,13 16.25,13 Z M23.25,13 C24.7687831,13 26,11.7687831 26,10.25 C26,8.73121694 24.7687831,7.5 23.25,7.5 C21.7312169,7.5 20.5,8.73121694 20.5,10.25 C20.5,11.7687831 21.7312169,13 23.25,13 Z M30.25,13 C31.7687831,13 33,11.7687831 33,10.25 C33,8.73121694 31.7687831,7.5 30.25,7.5 C28.7312169,7.5 27.5,8.73121694 27.5,10.25 C27.5,11.7687831 28.7312169,13 30.25,13 Z M37.25,13 C38.7687831,13 40,11.7687831 40,10.25 C40,8.73121694 38.7687831,7.5 37.25,7.5 C35.7312169,7.5 34.5,8.73121694 34.5,10.25 C34.5,11.7687831 35.7312169,13 37.25,13 Z" id="Mobile-Signal" fill-rule="evenodd"></path>
             </g>
+            <g id="login-button" transform="translate(9.000000, 620.000000)">
+                <rect id="login-box" fill="#5CB55F" x="0" y="0" width="396" height="53" rx="4"></rect>
+                <g id="login-text" transform="translate(0.000000, 5.000000)" fill="#FFFFFF">
+                    <text id="Michael-Pena" font-family="ProximaNova-Semibold, Proxima Nova" font-size="18" font-weight="500" letter-spacing="-0.232258067">
+                        <tspan x="135.565548" y="18">MICHAEL PENA</tspan>
+                    </text>
+                    <text id="Continue-As-martine." font-family="ProximaNova-Regular, Proxima Nova" font-size="13" font-weight="normal" letter-spacing="-0.167741939">
+                        <tspan x="88.2307259" y="37">Continue As martine.bosco@darrion.net</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="USE-A-DIFFERNET-UBER" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" letter-spacing="-0.154838711" fill="#D0D0D0">
+                <tspan x="114.121742" y="709">USE A DIFFERNET UBER ACCOUNT</tspan>
+            </text>
         </g>
     </g>
 </svg>

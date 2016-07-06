@@ -16,3 +16,7 @@
 * Ha! I found a setting making the gradient look a lot better. Nice.
 * I need a strategy to find fonts. Right now I'm just going w something that's "close enough"
 * Should prob do something next time around where I know the font beforehand
+
+* Zooming out - such a simple tool to give you new perspectives.
+* Selecting the right color is _really_ difficult. But also really fun. Green is hard, I find it hard to know if it's green on the verge of yellow or a more blue green.
+* I'm pretty happy w this
