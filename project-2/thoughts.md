@@ -12,3 +12,7 @@
 
 * I have no idea how to create the UberEATS logotype. Sigh. But I really want to create it. I guess I could try and just create it myself somehow? Just doesn't feel right.
 * Oh boy this feel rough, very rough. I need help here. Gotta ask Totte about this at the next session I have w him.
+
+* Ha! I found a setting making the gradient look a lot better. Nice.
+* I need a strategy to find fonts. Right now I'm just going w something that's "close enough"
+* Should prob do something next time around where I know the font beforehand
