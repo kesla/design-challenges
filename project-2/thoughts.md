@@ -4,3 +4,8 @@
 
 * I've started to look at symbols. And I like it so far. Seem very simple and you can create a piece of functionality in isolation from everything else which seem to be handy.
 * I spent some time w getting the status bar working, I adapted the iphone 6 version to my iphone 6 plus artboard. Very simple once I figured out that that was the best approach. I got help from Unn on how to do this at all, so that was also pretty nice. Would be convenient to have a custom preset that has this ready for you. Wonder if that's possible?
+
+* I just thought about photoshop. And how completely different Sketch is to photoshop. It just feels weird that I spent so much time on photoshop over the years when this is around.
+* I'm really annoyed about the default styling for rectangles. Why a border? Argh. Maybe I can define that somehow? Idk.
+* Gradients are hard. Really hard. So easily look hard and weird.
+* I added a background. Nothing special. Was fun to play around with craft and click a few times until I got an image that I felt make sense. Got confused first on how to add it but I think I've got it now.
