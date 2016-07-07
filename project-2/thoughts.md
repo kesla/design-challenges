@@ -27,3 +27,6 @@
 
 * It's interesting how Sketch forces me to use best practices, I used the background for the white top bar first, but that made it more difficult to center things. So I then created a white rectangle. Which makes a lot of sense, since the box isn't really a background.
 * I _really_ need to get better at details. Now the background thingy had it's gray default border left. That's just unacceptable.
+
+* Wow! `Keyboard, Emoji & Symbol Viewers` is really great
+* Fonts. Wow. still so much things to think about.

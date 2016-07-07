@@ -41,6 +41,16 @@
                     <tspan x="174" y="34">Checkout</tspan>
                 </text>
             </g>
+            <rect id="Rectangle-6" fill="#FFFFFF" x="8" y="300" width="398" height="382"></rect>
+            <path d="M192.5,404 L222.5,404" id="Line" stroke="#4E4D4D" stroke-width="2" stroke-linecap="square"></path>
+            <text id="DELIVERING-TO-YOUR-D" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#4C4C4C">
+                <tspan x="88" y="375">DELIVERING TO YOUR DOOR</tspan>
+                <tspan x="245.788" y="375" font-family="HiraginoSans-W3, Hiragino Sans" font-weight="300">・</tspan>
+                <tspan x="257.788" y="375" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="500">19 – 30 MIN </tspan>
+            </text>
+            <text id="KEFI" font-family="ProximaNova-Regular, Proxima Nova" font-size="32" font-weight="normal" fill="#2E2E2E">
+                <tspan x="176" y="351">KEFI</tspan>
+            </text>
         </g>
     </g>
 </svg>
