@@ -20,3 +20,7 @@
 * Zooming out - such a simple tool to give you new perspectives.
 * Selecting the right color is _really_ difficult. But also really fun. Green is hard, I find it hard to know if it's green on the verge of yellow or a more blue green.
 * I'm pretty happy w this
+
+* I wonder what change it would have if I broke down a design in  another way - not starting with the background and then going up. I guess it would change how I redo these designs, but more importantly it might change how I do design. So maybe next time around I should do it the opposite direction - for project-3 - so I can see how it works out for me? Maybe that will make me a better designer?
+
+* I'm so much faster now than what I was before. I'm maybe also a bit more sloppy - but hopefully I'm focusing on the right things. I'm very happy w how I created the gradient this time around.
