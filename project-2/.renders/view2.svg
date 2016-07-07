@@ -78,6 +78,16 @@
             <text id="Add-a-note-(extra-na" font-family="ProximaNova-Regular, Proxima Nova" font-size="14" font-weight="normal" letter-spacing="0.617647052" fill="#949494">
                 <tspan x="26" y="663">Add a note (extra napkins, more sauce etc.).</tspan>
             </text>
+            <g id="bottom" transform="translate(0.000000, 682.000000)">
+                <rect id="Rectangle-8" fill="#000000" x="0" y="0" width="414" height="54"></rect>
+                <text id="PLACE-ORDER" font-family="ProximaNova-Semibold, Proxima Nova" font-size="17" font-weight="500" fill="#FFFFFF">
+                    <tspan x="151" y="33">PLACE ORDER</tspan>
+                </text>
+                <text id="$13.34" font-family="ProximaNova-Regular, Proxima Nova" font-size="17" font-weight="normal" letter-spacing="0.425000012" fill="#ACACAC">
+                    <tspan x="337" y="33">$13.3</tspan>
+                    <tspan x="377.834" y="33" letter-spacing="0.451562524">4</tspan>
+                </text>
+            </g>
         </g>
     </g>
 </svg>
