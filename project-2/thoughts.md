@@ -30,3 +30,5 @@
 
 * Wow! `Keyboard, Emoji & Symbol Viewers` is really great
 * Fonts. Wow. still so much things to think about.
+
+* I'm trying to be quick and not focus to much on my layer structure. We'll see how that goes. Feels weird. This might be the fastest approach however...
