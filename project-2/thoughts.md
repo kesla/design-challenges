@@ -36,3 +36,5 @@
 * haha, I'm having a hard time navigating in the layer structure now. So, that experiment turned out to be a bit costly.
 
 * I'm surprised how often things are centered without me noticing
+
+* The arrow was really difficult to get done - I'm wondering if this is the best way to handle them.

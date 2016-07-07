@@ -20,13 +20,19 @@
                 </text>
                 <path d="M9.25,13 C10.7687831,13 12,11.7687831 12,10.25 C12,8.73121694 10.7687831,7.5 9.25,7.5 C7.73121694,7.5 6.5,8.73121694 6.5,10.25 C6.5,11.7687831 7.73121694,13 9.25,13 Z M16.25,13 C17.7687831,13 19,11.7687831 19,10.25 C19,8.73121694 17.7687831,7.5 16.25,7.5 C14.7312169,7.5 13.5,8.73121694 13.5,10.25 C13.5,11.7687831 14.7312169,13 16.25,13 Z M23.25,13 C24.7687831,13 26,11.7687831 26,10.25 C26,8.73121694 24.7687831,7.5 23.25,7.5 C21.7312169,7.5 20.5,8.73121694 20.5,10.25 C20.5,11.7687831 21.7312169,13 23.25,13 Z M30.25,13 C31.7687831,13 33,11.7687831 33,10.25 C33,8.73121694 31.7687831,7.5 30.25,7.5 C28.7312169,7.5 27.5,8.73121694 27.5,10.25 C27.5,11.7687831 28.7312169,13 30.25,13 Z M37.25,13 C38.7687831,13 40,11.7687831 40,10.25 C40,8.73121694 38.7687831,7.5 37.25,7.5 C35.7312169,7.5 34.5,8.73121694 34.5,10.25 C34.5,11.7687831 35.7312169,13 37.25,13 Z" id="Mobile-Signal" fill-rule="evenodd"></path>
             </g>
-            <g id="arrow" transform="translate(17.000000, 38.000000)" stroke-linecap="square" stroke="#2F2F2F">
+            <g id="arrow" transform="translate(17.000000, 36.000000)" stroke-linecap="square" stroke="#2F2F2F">
                 <g id="Group" transform="translate(2.000000, 2.000000)">
                     <path d="M0,7.5 L14,7.5" id="Line" stroke-width="3"></path>
                     <path d="M0.5,6.5 L5.73944431,0.454487338" id="Line" stroke-width="3"></path>
                     <path d="M0,14.0455127 L5.23944431,8" id="Line-Copy" stroke-width="3" transform="translate(2.619722, 11.022756) scale(1, -1) translate(-2.619722, -11.022756) "></path>
                 </g>
             </g>
+            <text id="KEFI" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" line-spacing="16" letter-spacing="0.425000012">
+                <tspan x="187.386" y="43.552" fill="#2F2F2F">KEFI</tspan>
+                <tspan x="224.862" y="45" font-family="ProximaNova-Regular, Proxima Nova" font-size="18" font-weight="normal" fill="#2F2F2F"></tspan>
+                <tspan x="175.5705" y="61" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#9C9C9C">19 - 30 MIN</tspan>
+            </text>
+            <path d="M0,71.5 L415.5,71.5" id="Line" stroke="#E0E0E0" stroke-linecap="square"></path>
         </g>
     </g>
 </svg>
