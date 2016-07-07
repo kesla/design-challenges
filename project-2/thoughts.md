@@ -38,3 +38,5 @@
 * I'm surprised how often things are centered without me noticing
 
 * The arrow was really difficult to get done - I'm wondering if this is the best way to handle them.
+
+* again I get reminded how small changes gets bigger when things are repeated. Everything looks fine, there's no problems! But it's just a bit odd...

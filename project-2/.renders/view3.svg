@@ -33,6 +33,58 @@
                 <tspan x="175.5705" y="61" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#9C9C9C">19 - 30 MIN</tspan>
             </text>
             <path d="M0,71.5 L415.5,71.5" id="Line" stroke="#E0E0E0" stroke-linecap="square"></path>
+            <text id="GREEK-DIPS" font-family="ProximaNova-Regular, Proxima Nova" font-size="18" font-weight="normal" fill="#2F2F2F">
+                <tspan x="158.112" y="126">GREEK DIPS</tspan>
+            </text>
+            <path d="M190,166 L225,166" id="Line" stroke="#6F6F6F" stroke-width="2" stroke-linecap="square"></path>
+            <g id="Group" transform="translate(12.000000, 207.000000)">
+                <path d="M0,95 L390,95" id="Line-Copy" stroke="#E0E0E0" stroke-linecap="square"></path>
+                <text id="Sundried-Tomato-Humm" font-family="ProximaNova-Regular, Proxima Nova" font-size="18" font-weight="normal" line-spacing="16">
+                    <tspan x="9" y="18" fill="#2F2F2F">Sundried Tomato Hummus</tspan>
+                    <tspan x="12.078" y="37.02" font-size="15" fill="#5F5E5E"></tspan>
+                    <tspan x="9.513" y="52.67" font-size="15" fill="#5F5E5E">Served with pita.</tspan>
+                    <tspan x="12.078" y="69.02" font-size="15" fill="#5F5E5E"></tspan>
+                    <tspan x="9.513" y="84.67" font-size="15" fill="#5F5E5E">$6.95</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy" transform="translate(12.000000, 321.000000)">
+                <path d="M0,95 L390,95" id="Line-Copy" stroke="#E0E0E0" stroke-linecap="square"></path>
+                <text id="Melintzanosalata" font-family="ProximaNova-Regular, Proxima Nova" font-size="18" font-weight="normal" line-spacing="16">
+                    <tspan x="9" y="18" fill="#2F2F2F">Melintzanosalata</tspan>
+                    <tspan x="12.078" y="37.02" font-size="15" fill="#5F5E5E"></tspan>
+                    <tspan x="9.513" y="52.67" font-size="15" fill="#5F5E5E">Served with pita.</tspan>
+                    <tspan x="12.078" y="69.02" font-size="15" fill="#5F5E5E"></tspan>
+                    <tspan x="9.513" y="84.67" font-size="15" fill="#5F5E5E">$6.95</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-2" transform="translate(12.000000, 435.000000)">
+                <path d="M0,95 L390,95" id="Line-Copy" stroke="#E0E0E0" stroke-linecap="square"></path>
+                <text id="Taramosalata" font-family="ProximaNova-Regular, Proxima Nova" font-size="18" font-weight="normal" line-spacing="16">
+                    <tspan x="9" y="18" fill="#2F2F2F">Taramosalata</tspan>
+                    <tspan x="12.078" y="37.02" font-size="15" fill="#5F5E5E"></tspan>
+                    <tspan x="9.513" y="52.67" font-size="15" fill="#5F5E5E">Served with pita.</tspan>
+                    <tspan x="12.078" y="69.02" font-size="15" fill="#5F5E5E"></tspan>
+                    <tspan x="9.513" y="84.67" font-size="15" fill="#5F5E5E">$6.95</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" transform="translate(12.000000, 549.000000)">
+                <path d="M0,95 L390,95" id="Line-Copy" stroke="#E0E0E0" stroke-linecap="square"></path>
+                <text id="Tzatziki" font-family="ProximaNova-Regular, Proxima Nova" font-size="18" font-weight="normal" line-spacing="16">
+                    <tspan x="9" y="18" fill="#2F2F2F">Tzatziki</tspan>
+                    <tspan x="12.078" y="37.02" fill="#2F2F2F"></tspan>
+                    <tspan x="9.513" y="52.67" font-size="15" fill="#5F5E5E">Served with pita or chips.</tspan>
+                    <tspan x="12.078" y="69.02" font-size="15" fill="#5F5E5E"></tspan>
+                    <tspan x="9.513" y="84.67" font-size="15" fill="#5F5E5E">$6.95</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-4" transform="translate(12.000000, 662.000000)" font-size="18" font-family="ProximaNova-Regular, Proxima Nova" line-spacing="16" font-weight="normal">
+                <text id="Combination-of-All-F">
+                    <tspan x="9" y="18" fill="#2F2F2F">Combination of All Four</tspan>
+                    <tspan x="12.078" y="37.02" font-size="14" fill="#5F5E5E"></tspan>
+                    <tspan x="12.078" y="53.02" font-size="15" line-spacing="19" fill="#5F5E5E">Combination of sundried tomato hummus,</tspan>
+                    <tspan x="12.078" y="72.02" font-size="15" line-spacing="19" fill="#5F5E5E">melintzanosalata, taramosalata, and tzatziki served with…</tspan>
+                </text>
+            </g>
         </g>
     </g>
 </svg>
