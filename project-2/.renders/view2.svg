@@ -13,6 +13,10 @@
             <stop stop-color="#000000" stop-opacity="0.00260196668" offset="18.0887372%"></stop>
             <stop stop-color="#000000" offset="100%"></stop>
         </linearGradient>
+        <rect id="path-4" x="0" y="0" width="17" height="18"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="17" height="18" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="view2">
@@ -42,6 +46,18 @@
                 </text>
             </g>
             <rect id="Rectangle-6" fill="#FFFFFF" x="8" y="300" width="398" height="382"></rect>
+            <text id="$12.25" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" letter-spacing="0.617647052" fill="#2F2F2F">
+                <tspan x="337" y="598">$12.25</tspan>
+            </text>
+            <text id="Bitter-Greens-and-Or" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" letter-spacing="0.617647052" fill="#2F2F2F">
+                <tspan x="61" y="598">Bitter Greens and Orange Segm…</tspan>
+            </text>
+            <path d="M8,562.5 L406,562.5" id="Line" stroke="#D6D4D4" stroke-linecap="square"></path>
+            <path d="M8,620 L406,620" id="Line-Copy" stroke="#D6D4D4" stroke-linecap="square"></path>
+            <g id="number" transform="translate(26.000000, 582.000000)">
+                <use id="Rectangle-7" stroke="#D7D7D7" mask="url(#mask-5)" stroke-width="2" xlink:href="#path-4"></use>
+                <path d="M7.415,10.6 L7.37,6.25 C7.35999995,5.73999745 7.30750047,5.40000085 7.2125,5.23 C7.11749952,5.05999915 6.9300014,4.975 6.65,4.975 C6.5499995,4.975 6.40500095,4.98749987 6.215,5.0125 C6.02499905,5.03750012 5.8800005,5.05 5.78,5.05 C5.38999805,5.05 5.195,4.87500175 5.195,4.525 C5.195,4.17499825 5.37999815,4 5.75,4 C5.8700006,4 6.05749873,4.01249987 6.3125,4.0375 C6.56750127,4.06250012 6.7649993,4.075 6.905,4.075 C7.2250016,4.075 7.48999895,4.0650001 7.7,4.045 C8.01000155,4.01499985 8.19999965,4 8.27,4 C8.4900011,4 8.62499975,4.06499935 8.675,4.195 C8.7150002,4.28500045 8.735,4.4399989 8.735,4.66 C8.735,4.69000015 8.73000005,4.80999895 8.72,5.02 C8.66999975,6.09000535 8.645,7.05999565 8.645,7.93 L8.645,9.625 C8.645,9.93500155 8.64999995,10.3499974 8.66,10.87 C8.6800001,11.5000031 8.69,11.914999 8.69,12.115 C8.70000005,12.8050034 8.92999775,13.15 9.38,13.15 C9.49000055,13.15 9.6549989,13.1375001 9.875,13.1125 C10.0950011,13.0874999 10.2599995,13.075 10.37,13.075 C10.8500024,13.075 11.09,13.2499982 11.09,13.6 C11.09,13.9500018 10.8700022,14.125 10.43,14.125 C10.2599992,14.125 10.1000007,14.1150001 9.95,14.095 C9.1099958,13.9849995 8.4700022,13.93 8.03,13.93 C7.5899978,13.93 7.0500032,13.9749995 6.41,14.065 C6.0499982,14.1150002 5.79500075,14.14 5.645,14.14 C5.21499785,14.14 5,13.9600018 5,13.6 C5,13.2499982 5.24499755,13.075 5.735,13.075 C5.88500075,13.075 6.0399992,13.0899998 6.2,13.12 C6.4400012,13.1400001 6.5899997,13.15 6.65,13.15 C7.00000175,13.15 7.2149996,13.0125014 7.295,12.7375 C7.3750004,12.4624986 7.415,11.7500057 7.415,10.6 L7.415,10.6 Z" id="1" fill="#2F8E30"></path>
+            </g>
             <path d="M192.5,404 L222.5,404" id="Line" stroke="#4E4D4D" stroke-width="2" stroke-linecap="square"></path>
             <text id="DELIVERING-TO-YOUR-D" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" font-weight="normal" fill="#4C4C4C">
                 <tspan x="88" y="375">DELIVERING TO YOUR DOOR</tspan>
@@ -58,6 +74,9 @@
                 <tspan x="185" y="479" font-size="15" fill="#979696">New York, NY</tspan>
                 <tspan x="185" y="502" font-size="15" fill="#979696"></tspan>
                 <tspan x="185" y="525" font-size="15" fill="#979696">Add delivery note…</tspan>
+            </text>
+            <text id="Add-a-note-(extra-na" font-family="ProximaNova-Regular, Proxima Nova" font-size="14" font-weight="normal" letter-spacing="0.617647052" fill="#949494">
+                <tspan x="26" y="663">Add a note (extra napkins, more sauce etc.).</tspan>
             </text>
         </g>
     </g>

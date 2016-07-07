@@ -32,3 +32,5 @@
 * Fonts. Wow. still so much things to think about.
 
 * I'm trying to be quick and not focus to much on my layer structure. We'll see how that goes. Feels weird. This might be the fastest approach however...
+
+* haha, I'm having a hard time navigating in the layer structure now. So, that experiment turned out to be a bit costly.
