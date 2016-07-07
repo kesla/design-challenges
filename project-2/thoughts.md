@@ -24,3 +24,6 @@
 * I wonder what change it would have if I broke down a design in  another way - not starting with the background and then going up. I guess it would change how I redo these designs, but more importantly it might change how I do design. So maybe next time around I should do it the opposite direction - for project-3 - so I can see how it works out for me? Maybe that will make me a better designer?
 
 * I'm so much faster now than what I was before. I'm maybe also a bit more sloppy - but hopefully I'm focusing on the right things. I'm very happy w how I created the gradient this time around.
+
+* It's interesting how Sketch forces me to use best practices, I used the background for the white top bar first, but that made it more difficult to center things. So I then created a white rectangle. Which makes a lot of sense, since the box isn't really a background.
+* I _really_ need to get better at details. Now the background thingy had it's gray default border left. That's just unacceptable.
