@@ -1,0 +1,1 @@
+* I tried something differently this time, laying out all blocks first. I think it's a good way to make sure things on a whole are balanced. Definitely something I think I will use when designing something myself from the ground up - start with the whole page - and only blocks, maybe some text, and then step by step work in the things I need. Great learning. Wow.
