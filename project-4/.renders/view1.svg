@@ -16,9 +16,29 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="view1">
             <rect id="Top-bar" fill="#B50404" x="0" y="0" width="414" height="19"></rect>
-            <rect id="Title-bar" fill="#C80F0F" x="0" y="19" width="414" height="43"></rect>
-            <rect id="Top-navigation" fill="#D8D8D8" x="0" y="62" width="414" height="43"></rect>
-            <g id="item" transform="translate(0.000000, 105.000000)">
+            <rect id="Title-bar" fill="#C80F0F" x="0" y="19" width="414" height="45"></rect>
+            <g id="Top-navigation" transform="translate(0.000000, 63.000000)">
+                <g id="Tab3" transform="translate(276.000000, 1.000000)">
+                    <rect id="background" fill="#D8D8D8" x="0" y="0" width="138" height="40"></rect>
+                    <text id="FAVORITE" font-family="Graphik-Regular, Graphik" font-size="10" font-weight="normal" letter-spacing="1" fill="#6C6C6C">
+                        <tspan x="42.165" y="23">FAVORITE</tspan>
+                    </text>
+                </g>
+                <g id="Tab2" transform="translate(138.000000, 1.000000)">
+                    <rect id="background" fill="#D8D8D8" x="0" y="0" width="138" height="40"></rect>
+                    <text id="FEATURED" font-family="Graphik-Regular, Graphik" font-size="10" font-weight="normal" letter-spacing="1" fill="#6C6C6C">
+                        <tspan x="40.685" y="23">FEATURED</tspan>
+                    </text>
+                </g>
+                <g id="Tab1" transform="translate(0.000000, 0.023256)">
+                    <rect id="background" fill="#D8D8D8" x="0" y="0.976744186" width="138" height="40"></rect>
+                    <rect id="white-selected" fill="#FFFFFF" x="0" y="36.3255814" width="138" height="4.65116279"></rect>
+                    <text id="NEW" font-family="Graphik-Semibold, Graphik" font-size="10" font-weight="500" letter-spacing="1" fill="#FFFFFF">
+                        <tspan x="56.4087591" y="24">NEW</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="item" transform="translate(0.000000, 104.000000)">
                 <rect id="top" fill="#EBEBEB" x="0" y="0" width="414" height="66"></rect>
                 <g id="images" transform="translate(0.000000, 66.000000)">
                     <rect id="left-image" fill="url(#pattern-1)" x="0" y="0" width="206" height="330"></rect>
