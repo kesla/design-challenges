@@ -5,3 +5,5 @@
 * It's really evident how faster I get. I like it. Very interesting to learn a new tool.
 * Also interesting how it feels working in Sketch after being away from it for some time, very quick to get started again.
 * Reading on desginernews reveals Sketch really is the new standard. I understand why.
+
+* I need to run more guides online, whenever I'm doing something I should think if there's a guide I can google for that can take me forward. Prefer things that'll take me forward big steps over small steps.

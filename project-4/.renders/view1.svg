@@ -43,6 +43,18 @@
                 </g>
             </g>
             <g id="item" transform="translate(0.000000, 104.000000)">
+                <g id="footer" transform="translate(0.000000, 396.000000)">
+                    <rect fill="#FFFFFF" x="0" y="0" width="414" height="61"></rect>
+                    <g id="heart" transform="translate(84.000000, 15.000000)" stroke="#C80F0F">
+                        <path d="M36,71.7460937 C36,71.7460937 72,43.882251 72,24 C72,12.8178342 68.6970976,3.87500311 59.1328125,0.7187501 C49.5685274,-2.43750291 36,15.4238283 36,15.4238283 C36,15.4238283 25.0800372,-2.82301707 15.6513672,0.71875009 C6.22269722,4.26051725 0,12.045529 0,24 C0,43.882251 36,71.7460937 36,71.7460937 Z" id="Oval"></path>
+                    </g>
+                    <g id="heart" transform="translate(298.000000, 15.000000)" stroke="#C80F0F">
+                        <path d="M36,71.7460937 C36,71.7460937 72,43.882251 72,24 C72,12.8178342 68.6970976,3.87500311 59.1328125,0.7187501 C49.5685274,-2.43750291 36,15.4238283 36,15.4238283 C36,15.4238283 25.0800372,-2.82301707 15.6513672,0.71875009 C6.22269722,4.26051725 0,12.045529 0,24 C0,43.882251 36,71.7460937 36,71.7460937 Z" id="Oval"></path>
+                    </g>
+                </g>
+                <text id="COMMENTS-(0)" font-family="Graphik-Medium, Graphik" font-size="12" font-weight="400" fill="#B50404">
+                    <tspan x="162.114" y="431">COMMENTS (0)</tspan>
+                </text>
                 <g id="images" transform="translate(0.000000, 66.000000)">
                     <rect id="left-image" fill="url(#pattern-1)" x="0" y="0" width="206" height="330"></rect>
                     <rect id="right-image" fill="url(#pattern-3)" x="208" y="0" width="206" height="330"></rect>
